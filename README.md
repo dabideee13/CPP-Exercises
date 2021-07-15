@@ -1,1 +1,1 @@
-# CPP-Simple-Exercises
+# CPP-Exercises
